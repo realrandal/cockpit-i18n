@@ -288,6 +288,9 @@ return [
     'Save gallery' => 'Zapisz galerię',
     '%s image(s) imported' => '%s obraz/ów zaimportowano',
     'Create groups to organize your galleries.' => 'Utwórz grupy, aby zorganizować Twoje galerie.',
-    'Create new group' => 'Utwórz nową grupę'
+    'Create new group' => 'Utwórz nową grupę',
+    
+    // Addons
+    'View site' => 'Wyświetl stronę'
 
 ];
